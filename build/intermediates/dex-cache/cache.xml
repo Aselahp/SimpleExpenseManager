@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\classes-c1b03607f6b27f7f9f9eb63300f36f9663084bc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\classes-76eba13be5f9b13e05c0b160ae52361ba961c2ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-c2911ab15d1c98021d225a9e03c9a59fb4317a03.jar" />
+    </item>
+    <item
+        jar="C:\Users\H.P. Asela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-1cd1548c65aea34fc0c09f025c961131a3f0ce27.jar" />
+    </item>
+    <item
+        jar="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\classes-836211d2d5590d5e9e9879235edc328f2a70d73a.jar" />
+    </item>
+    <item
+        jar="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\H.P. Asela\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\classes-c5371d54232d61c0fc6bb7e4bd125b23d215bd22.jar" />
+    </item>
+
+</items>
